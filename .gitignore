@@ -1,0 +1,8 @@
+ebe-venv/
+__pycache__/
+*.pyc
+.env
+.env.local
+.DS_Store
+rules.json
+tmp/
